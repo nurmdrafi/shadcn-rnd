@@ -1,0 +1,14 @@
+{
+    "editor.codeActionsOnSave": [
+      "source.fixAll.eslint"
+    ],
+    "eslint.format.enable": true, // on save fix format
+    "eslint.validate": [
+      "javascript",
+      "javascriptreact",
+      "typescript",
+      "typescriptreact"
+    ],
+    "javascript.preferences.importModuleSpecifier": "non-relative", // import alias
+    "typescript.preferences.importModuleSpecifier": "non-relative" // import alias
+  }
